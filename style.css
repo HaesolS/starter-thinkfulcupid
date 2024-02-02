@@ -50,6 +50,12 @@ img {
   font-size: 20px;
 }
 
+.test {
+  margin: 10px;
+  padding: 0 0 10px 0;
+  font-size: 20px;
+}
+
 .item-double {
   flex: 2;
   margin: 10px;
